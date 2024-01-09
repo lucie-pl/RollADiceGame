@@ -1,4 +1,4 @@
-# RollADiceGame  🎲
+# Roll A Dice Game  🎲
 
 A 2-player game with a rolling dice. The sum of the dice is added at each roll.
 <br>
